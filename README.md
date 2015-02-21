@@ -3,6 +3,6 @@
 ##Install with Bower
 You can also install and manage Bootstrap's Less, CSS, JavaScript, and fonts using Bower:
 
-Copy
+```
 $ bower install bootstrap
-
+```
