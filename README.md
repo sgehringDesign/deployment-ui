@@ -1,6 +1,6 @@
 # thinkful-deployment-ui
 
-Intructions leveraged from: [GetBootstrap.com!](http://getbootstrap.com/getting-started/)
+Intructions leveraged from: [GetBootstrap.com](http://getbootstrap.com/getting-started/)
 
 ###Install with Bower
 You can also install and manage Bootstrap's Less, CSS, JavaScript, and fonts using Bower:
