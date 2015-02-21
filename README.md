@@ -1,4 +1,5 @@
-#Thinkful Deployment UI  - Front End Prototype - Iteration 1
+#Thinkful Deployment UI  - Front End Prototype 
+Version 1
 
 Intructions leveraged from: [GetBootstrap.com](http://getbootstrap.com/getting-started/)
 
