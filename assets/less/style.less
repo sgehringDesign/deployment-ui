@@ -1,11 +1,15 @@
 // Main Stylesheet
 @import "base.less";
 
+.glyphicon {
+   font-family:'Glyphicons Halflings' !important;
+}
 
+main {
+	margin-top: 90px;
+}
 
-
-
-// BREADCRUMB CSS
+// BREADCRUMB
 .breadcrumb-wrapper {
 	.breadcrumb {
 		li {
@@ -16,6 +20,30 @@
 	}
 }
 
+
+// GRID FILE LIST 
+.grid-file-wrapper {
+	table {
+		tr {
+		
+			td {
+				
+			}
+			
+			.active {
+				background: #dff0d8;
+			}
+			
+			&:hover td {
+					background: #337ab7;
+					color: #fff;
+					cursor: pointer;
+			}
+			
+			
+		}
+	}
+}
 
 
 
