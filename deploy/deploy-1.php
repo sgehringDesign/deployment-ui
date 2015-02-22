@@ -9,7 +9,7 @@
 	<div class="container-fluid">
 	  <?php include $_SERVER['DOCUMENT_ROOT']."/lib/header.php"; ?>
 	  <?php include $_SERVER['DOCUMENT_ROOT']."/lib/breadcrumb-deployment.php"; ?>
-	  <div>
+	  <div class="screen-wrapper">
 	  	[insert]	  
 	  </div>	
 	  <?php include $_SERVER['DOCUMENT_ROOT']."/lib/footer.php"; ?>
