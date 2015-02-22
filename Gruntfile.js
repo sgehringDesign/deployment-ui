@@ -38,7 +38,7 @@ module.exports = function(grunt) {
             options: {
                 sourceMap: './js/app.min.js.map',
                 mangle: true,
-                compress: true,
+                compress: {},
                 beautify: false
             },
             development: {
