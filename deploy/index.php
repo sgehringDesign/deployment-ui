@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Latest Deployments</title>
-  <?php include $_SERVER['DOCUMENT_ROOT']."/lib/head.php"; ?>
+  <title>Deploy 2: Select Files </title>
+  <?php include $_SERVER['DOCUMENT_ROOT']."/assets/templates/head.php"; ?>
 </head>
 <body>
-<?php include $_SERVER['DOCUMENT_ROOT']."/lib/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/assets/templates/header.php"; ?>
 <main id="main" class="container-fluid">
 	<div class="screen-wrapper">  	
 		<nav>
@@ -18,54 +18,44 @@
 			<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" >
 			  <thead>
 			    <tr>
-			      <th class="text-center"><input type="checkbox" /></th>
 			      <th>Date</th>
 			      <th>Deployment</th>
 			    </tr>
 			  </thead>
 			  <tbody>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>01/20/2015</td>
 			      <td>Deployed Content Fix to Solutions Section</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>01/15/2015</td>
 			      <td>Deployed Content Fix to Release 2015 Product Content</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/25/2014</td>
 			      <td>Deployed Christmas Campaign</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/20/2014</td>
 			      <td>Deployed Content Fix to Solutions Section</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/15/2014</td>
 			      <td>Deployed Content Fix to Release 2015 Product Content</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/12/2014</td>
 			      <td>Deployed Christmas Campaign</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/09/2014</td>
 			      <td>Deployed Content Fix to Solutions Section</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/05/2014</td>
 			      <td>Deployed Content Fix to Release 2015 Product Content</td>
 			    </tr>
 			    <tr>
-			      <td class="text-center"><input type="checkbox" /></td>
 			      <td>12/01/2014</td>
 			      <td>Deployed Christmas Campaign</td>
 			    </tr>
